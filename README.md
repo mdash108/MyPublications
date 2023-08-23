@@ -33,3 +33,42 @@ List of refereed papers (Manoranjan Dash)
 
 
 [11]	J. Yao, M. Dash, S. Tan, and H. Liu, “Entropy-based fuzzy clustering and fuzzy modeling,” Fuzzy sets and Systems, vol. 113, no. 3, pp. 381–388, 2000. https://www.sciencedirect.com/science/article/abs/pii/S0165011498000384
+
+
+[12]	M. Dash, H. Liu, and H. Motoda, “Consistency based feature selection,” in Knowledge Discovery and Data Mining. Current Issues and New Appli-cations: 4th Pacific-Asia Conference, PAKDD 2000 Kyoto, Japan, April 18–20, 2000 Proceedings 4. Springer Berlin Heidelberg, 2000, pp. 98–109.
+
+
+[13]	M. Dash, H. Liu, and J. Yao, “Unsupervised feature ranking and selec-tion,” KLUWER INTERNATIONAL SERIES IN ENGINEERING AND COMPUTER SCIENCE, pp. 67–88, 2001.
+
+
+[14]	M. Dash and H. Liu, “Efficient hierarchical clustering algorithms using partially overlapping partitions,” in Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer Berlin Heidelberg Berlin, Heidelberg, 2001, pp. 495–506.
+
+
+[15]	M. Dash, H. Liu, and X. Xu, “’1+ 1¿ 2’,” in Institute of Electrical and Electronics Engineers Inc., 2001.
+
+
+[16]	M. Dash, K. Choi, P. Scheuermann, and H. Liu, “Feature selection for clustering-a filter solution,” in 2002 IEEE International Conference on Data Mining, 2002. Proceedings. IEEE, 2002, pp. 115–122.
+
+
+[17]	M. Dash, H. Liu, and J. Yao, “Unsupervised feature ranking and selection,” Knowledge Discovery for Business Information Systems, pp. 67–87, 2002.
+
+
+[18]	M. Dash, “Efficient Clustering for Knowledge Discovery in Large High-Dimensional Databases,” PhD Thesis, June 2002.
+
+
+[19]	H. Liu, F. Hussain, C. L. Tan, and M. Dash, “Discretization: An en-abling technique,” Data mining and knowledge discovery, vol. 6, pp. 393–423, 2002.
+
+
+[20]	H. Br¨onnimann, B. Chen, M. Dash, P. Haas, and P. Scheuermann, “Effi-cient data reduction with ease,” in Proceedings of the ninth ACM SIGKDD international conference on knowledge discovery and data mining, 2003, pp. 59–68.
+
+
+[21]	M. Dash and H. Liu, “Consistency-based search in feature selection,” Ar-tificial intelligence, vol. 151, no. 1-2, pp. 155–176, 2003.
+
+
+[22]	H. Liu, L. Yu, M. Dash, and H. Motoda, “Active feature selection us-ing classes,” in Advances in Knowledge Discovery and Data Mining: 7th Pacific-Asia Conference, PAKDD 2003, Seoul, Korea, April 30–May 2, 2003 Proceedings 7. Springer Berlin Heidelberg, 2003, pp. 474–485.
+
+
+[23]	M. Dash, H. Liu, P. Scheuermann, and K. L. Tan, “Fast hierarchical clus-tering and its validation,” Data & Knowledge Engineering, vol. 44, no. 1, pp. 109–138, 2003.
+
+
+[24]	H. Br¨onnimann, B. Chen, M. Dash, P. Haas, Y. Qiao, and P. Scheuermann, “Efficient data-reduction methods for on-line association rule discovery,” in Data Mining: Next Generation Challenges and Future Directions, Se-lected papers from the NSF Workshop on Next-Generation Data Mining (NGDM’02). Citeseer, 2004, pp. 190–208.
