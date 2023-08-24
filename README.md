@@ -132,81 +132,81 @@ V.	Gopalakrishnan, X. Li, J. Ren, W. F. Lu et al., “A data mining approach to 
 [44]	W. Ng and M. Dash, “A change detector for mining frequent patterns over evolving data streams,” in 2008 IEEE International Conference on Systems, Man and Cybernetics. IEEE, 2008, pp. 2407–2412. https://ieeexplore.ieee.org/abstract/document/4811655
 
 
-[45]	S. A. Shalom, M. Dash, and M. Tue, “Efficient k-means clustering using accelerated graphics processors,” in Data Warehousing and Knowledge Dis-covery: 10th International Conference, DaWaK 2008 Turin, Italy, Septem-ber 2-5, 2008 Proceedings 10. Springer Berlin Heidelberg, 2008, pp. 166–175.
+[45]	S. A. Shalom, M. Dash, and M. Tue, “Efficient k-means clustering using accelerated graphics processors,” in Data Warehousing and Knowledge Dis-covery: 10th International Conference, DaWaK 2008 Turin, Italy, Septem-ber 2-5, 2008 Proceedings 10. Springer Berlin Heidelberg, 2008, pp. 166–175. https://link.springer.com/chapter/10.1007/978-3-540-85836-2_16
 
 
-[46]	——, “Graphics hardware based efficient and scalable fuzzy c-means clus-tering,” in Proceedings of the 7th Australasian Data Mining Conference-Volume 87. Citeseer, 2008, pp. 179–186.
+[46]	S. A. Shalom, M. Dash, and M. Tue, “Graphics hardware based efficient and scalable fuzzy c-means clustering,” in Proceedings of the 7th Australasian Data Mining Conference-Volume 87. Citeseer, 2008, pp. 179–186. https://crpit.scem.westernsydney.edu.au/confpapers/CRPITV87Shalom.pdf
 
 
-[47]	W. Ng and M. Dash, “Which is better for frequent pattern mining: Ap-proximate counting or sampling?” in International Conference on Data Warehousing and Knowledge Discovery. Springer Berlin Heidelberg Berlin, Heidelberg, 2009, pp. 151–162.
+[47]	W. Ng and M. Dash, “Which is better for frequent pattern mining: Ap-proximate counting or sampling?” in International Conference on Data Warehousing and Knowledge Discovery. Springer Berlin Heidelberg Berlin, Heidelberg, 2009, pp. 151–162. https://link.springer.com/chapter/10.1007/978-3-642-03730-6_13
 
 
-[48]	M. Dash and A. Singhania, “Mining in large noisy domains,” Journal of Data and Information Quality (JDIQ), vol. 1, no. 2, pp. 1–30, 2009.
+[48]	M. Dash and A. Singhania, “Mining in large noisy domains,” Journal of Data and Information Quality (JDIQ), vol. 1, no. 2, pp. 1–30, 2009. https://dl.acm.org/doi/abs/10.1145/1577840.1577843
 
 
-[49]	S. A. Shalom, M. Dash, M. Tue, and N. Wilson, “Hierarchical agglomer-ative clustering using graphics processor with compute unified device ar-chitecture,” in 2009 international conference on signal processing systems. IEEE, 2009, pp. 556–561.
+[49]	S. A. Shalom, M. Dash, M. Tue, and N. Wilson, “Hierarchical agglomerative clustering using graphics processor with compute unified device architecture,” in 2009 international conference on signal processing systems. IEEE, 2009, pp. 556–561. https://ieeexplore.ieee.org/abstract/document/5166848
 
 
-[50]	S. A. Shalom, M. Dash, and M. Tue, “An approach for fast hierarchical agglomerative clustering using graphics processors with cuda,” in Advances in Knowledge Discovery and Data Mining: 14th Pacific-Asia Conference, PAKDD 2010, Hyderabad, India, June 21-24, 2010. Proceedings. Part II.	Springer Berlin Heidelberg, 2010, pp. 35–42.
+[50]	S. A. Shalom, M. Dash, and M. Tue, “An approach for fast hierarchical agglomerative clustering using graphics processors with cuda,” in Advances in Knowledge Discovery and Data Mining: 14th Pacific-Asia Conference, PAKDD 2010, Hyderabad, India, June 21-24, 2010. Proceedings. Part II.	Springer Berlin Heidelberg, 2010, pp. 35–42. https://link.springer.com/chapter/10.1007/978-3-642-13672-6_4
 
 
-[51]	M. Dash and V. Gopalkrishnan, “Simultaneous feature selection and tu-ple selection for efficient classification,” in Complex Data Warehousing and Knowledge Discovery for Advanced Retrieval Development: Innovative Methods and Applications. IGI Global, 2010, pp. 270–285.
+[51]	M. Dash and V. Gopalkrishnan, “Simultaneous feature selection and tu-ple selection for efficient classification,” in Complex Data Warehousing and Knowledge Discovery for Advanced Retrieval Development: Innovative Methods and Applications. IGI Global, 2010, pp. 270–285. https://www.igi-global.com/chapter/complex-data-warehousing-knowledge-discovery/39596
 
 
-[52]	M. Dash and N. W. Lie, “Outlier detection in transactional data,” Intelli-gent Data Analysis, vol. 14, no. 3, pp. 283–298, 2010.
+[52]	M. Dash and N. W. Lie, “Outlier detection in transactional data,” Intelligent Data Analysis, vol. 14, no. 3, pp. 283–298, 2010. https://content.iospress.com/articles/intelligent-data-analysis/ida00422
 
 
-[53]	W. Ng and M. Dash, “A comparison between approximate counting and sampling methods for frequent pattern mining on data streams,” Intelligent Data Analysis, vol. 14, no. 6, pp. 749–771, 2010.
+[53]	W. Ng and M. Dash, “A comparison between approximate counting and sampling methods for frequent pattern mining on data streams,” Intelligent Data Analysis, vol. 14, no. 6, pp. 749–771, 2010. https://content.iospress.com/articles/intelligent-data-analysis/ida00450
 
 
-[54]	——, “Discovery of frequent patterns in transactional data streams,” in Transactions on large-scale data-and knowledge-centered systems II. Springer Berlin Heidelberg Berlin, Heidelberg, 2010, pp. 1–30.
+[54]	W. Ng and M. Dash, “Discovery of frequent patterns in transactional data streams,” in Transactions on large-scale data-and knowledge-centered systems II. Springer Berlin Heidelberg Berlin, Heidelberg, 2010, pp. 1–30. https://link.springer.com/chapter/10.1007/978-3-642-16175-9_1
 
 
-[55]	L. Shukai, N. S. Chaudhari, and M. Dash, “Selecting useful features for per-sonal credit risk analysis,” International Journal of Business Information Systems, vol. 6, no. 4, pp. 530–546, 2010.
+[55]	L. Shukai, N. S. Chaudhari, and M. Dash, “Selecting useful features for per-sonal credit risk analysis,” International Journal of Business Information Systems, vol. 6, no. 4, pp. 530–546, 2010. https://www.inderscienceonline.com/doi/abs/10.1504/IJBIS.2010.035745
 
 
-[56]	S. A. Shalom and M. Dash, “Efficient hierarchical agglomerative cluster-ing algorithms on gpu using data partitioning,” in 2011 12th International Conference on Parallel and Distributed Computing, Applications and Tech-nologies. IEEE, 2011, pp. 134–139.
+[56]	S. A. Shalom and M. Dash, “Efficient hierarchical agglomerative clustering algorithms on gpu using data partitioning,” in 2011 12th International Conference on Parallel and Distributed Computing, Applications and Tech-nologies. IEEE, 2011, pp. 134–139. https://ieeexplore.ieee.org/abstract/document/6118950
 
 
-[57]	M. Dash and Y.-S. Ong, “Relief-c: Efficient feature selection for clustering over noisy data,” in 2011 IEEE 23rd international conference on tools with artificial intelligence. IEEE, 2011, pp. 869–872.
+[57]	M. Dash and Y.-S. Ong, “Relief-c: Efficient feature selection for clustering over noisy data,” in 2011 IEEE 23rd international conference on tools with artificial intelligence. IEEE, 2011, pp. 869–872. https://ieeexplore.ieee.org/abstract/document/6103426
 
 
-[58]	S. A. Shalom and M. Dash, “Efficient partitioning based hierarchical ag-glomerative clustering using graphics accelerators with cuda,” International Journal of Artificial Intelligence & Applications, vol. 4, no. 2, p. 13, 2013.
+[58]	S. A. Shalom and M. Dash, “Efficient partitioning based hierarchical ag-glomerative clustering using graphics accelerators with cuda,” International Journal of Artificial Intelligence & Applications, vol. 4, no. 2, p. 13, 2013. https://d1wqtxts1xzle7.cloudfront.net/43609970/4213ijaia02-libre.pdf?1457675576=&response-content-disposition=inline%3B+filename%3DEFFICIENT_PARTITIONING_BASED_HIERARCHICA.pdf&Expires=1692872687&Signature=SulsK547T0moi~bdyLIkLk11k6wHrZmDyVFjjF3tMjqJAgyoVqeRvV0w7P9iHmcuNL6zWVU~Z0QsHsby3-aaldRrSRbWUFyIWhxGm0AjKGHtkgBWfY9UfqJ2JijfJRWUuMFqQLTbfmXDlYLHauJxFY0nKTcou6MwyWQpAPb0m2l5nfu5a3L80fC8f44ippIBvpPFPYrBBmLraKg5YM5NgW7hQ-9i7JOCBkR6G-wLYOrNmU9PxAbQWUkpzW1IMWrG9RRH4p7Cm~l-3od4ujiaDvPnlUt9fVXE3gfHBDRNo4hi~FD1cbwFoN2h1-prc0qy8CutC96dEJTP40QRveKKQg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 
 
-[59]	M. Dash, G. G. Chua, H. L. Nguyen, G. E. Yap, C. Hong, X. Li, S. P. Krishnaswamy, J. Decraene, and A. S. Nash, “An interactive analytics tool for understanding location semantics and mobility of users using mobile network data,” in 2014 IEEE 15th International Conference on Mobile Data Management, vol. 1. IEEE, 2014, pp. 345–348.
+[59]	M. Dash, G. G. Chua, H. L. Nguyen, G. E. Yap, C. Hong, X. Li, S. P. Krishnaswamy, J. Decraene, and A. S. Nash, “An interactive analytics tool for understanding location semantics and mobility of users using mobile network data,” in 2014 IEEE 15th International Conference on Mobile Data Management, vol. 1. IEEE, 2014, pp. 345–348. https://ieeexplore.ieee.org/abstract/document/6916942
 
 
-[60]	M. Dash, H. L. Nguyen, C. Hong, G. E. Yap, M. N. Nguyen, X. Li, S. P. Krishnaswamy, J. Decraene, S. Antonatos, Y. Wang et al., “Home and work place prediction for urban planning using mobile network data,” in 2014 IEEE 15th International Conference on Mobile Data Management, vol. 2. IEEE, 2014, pp. 37–42.
+[60]	M. Dash, H. L. Nguyen, C. Hong, G. E. Yap, M. N. Nguyen, X. Li, S. P. Krishnaswamy, J. Decraene, S. Antonatos, Y. Wang et al., “Home and work place prediction for urban planning using mobile network data,” in 2014 IEEE 15th International Conference on Mobile Data Management, vol. 2. IEEE, 2014, pp. 37–42. https://ieeexplore.ieee.org/abstract/document/6916873
 
 
-[61]	M. Dash, K. K. Koo, J. Decraene, G.-E. Yap, W. Wu, J. B. Gomes, A. Shi-Nash, and X. Li, “Cdr-to-movis: Developing a mobility visualization sys-tem from cdr data,” in 2015 IEEE 31st International Conference on Data Engineering. IEEE, 2015, pp. 1452–1455.
+[61]	M. Dash, K. K. Koo, J. Decraene, G.-E. Yap, W. Wu, J. B. Gomes, A. Shi-Nash, and X. Li, “Cdr-to-movis: Developing a mobility visualization system from cdr data,” in 2015 IEEE 31st International Conference on Data Engineering. IEEE, 2015, pp. 1452–1455. https://ieeexplore.ieee.org/abstract/document/7113399
 
 
 [62]	M. Dash, K. K. Koo, J. B. Gomes, S. P. Krishnaswamy, D. Rugeles, and
-A.	Shi-Nash, “Next place prediction by understanding mobility patterns,” in 2015 IEEE International Conference on Pervasive Computing and Com-munication Workshops (PerCom Workshops). IEEE, 2015, pp. 469–474.
+A.	Shi-Nash, “Next place prediction by understanding mobility patterns,” in 2015 IEEE International Conference on Pervasive Computing and Com-munication Workshops (PerCom Workshops). IEEE, 2015, pp. 469–474. https://ieeexplore.ieee.org/abstract/document/7134083
 
 
 [63]	M. Dash, K. K. Koo, T. Holleczek, G.-E. Yap, S. P. Krishnaswamy, and
-A.	Shi-Nash, “From mobile phone data to transport network–gaining in-sight about human mobility,” in 2015 16th IEEE international conference on mobile data management, vol. 1. IEEE, 2015, pp. 243–250.
+A.	Shi-Nash, “From mobile phone data to transport network–gaining insight about human mobility,” in 2015 16th IEEE international conference on mobile data management, vol. 1. IEEE, 2015, pp. 243–250. https://ieeexplore.ieee.org/abstract/document/7264328
 
 
-[64]	M. Dash, K. K. Koo, S. P. Krishnaswamy, Y. Jin, and A. Shi-Nash, “Visual-ize people’s mobility-both individually and collectively-using mobile phone cellular data,” in 2016 17th IEEE International Conference on Mobile Data Management (MDM), vol. 1. IEEE, 2016, pp. 341–344.
+[64]	M. Dash, K. K. Koo, S. P. Krishnaswamy, Y. Jin, and A. Shi-Nash, “Visualize people’s mobility-both individually and collectively-using mobile phone cellular data,” in 2016 17th IEEE International Conference on Mobile Data Management (MDM), vol. 1. IEEE, 2016, pp. 341–344. https://ieeexplore.ieee.org/abstract/document/7517816
 
 
-[65]	M. Lin, M. Dash, W. P. Yi, and Y. Jin, “Smartphone-based place profiling in a privacy-preserving manner,” in 2016 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Com-munications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData). IEEE, 2016, pp. 156–163.
+[65]	M. Lin, M. Dash, W. P. Yi, and Y. Jin, “Smartphone-based place profiling in a privacy-preserving manner,” in 2016 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Com-munications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData). IEEE, 2016, pp. 156–163. https://ieeexplore.ieee.org/abstract/document/7917079
 
 
-[66]	D. Rugeles, K. Zhao, C. Gao, M. Dash, and S. Krishnaswamy, “Bicluster-ing: An application of dual topic models,” in Proceedings of the 2017 SIAM International Conference on Data Mining. SIAM, 2017, pp. 453–461.
+[66]	D. Rugeles, K. Zhao, C. Gao, M. Dash, and S. Krishnaswamy, “Biclustering: An application of dual topic models,” in Proceedings of the 2017 SIAM International Conference on Data Mining. SIAM, 2017, pp. 453–461. https://epubs.siam.org/doi/abs/10.1137/1.9781611974973.51
 
 
-[67]	M. Dash and S. G. Teo, “Privacy and utility preservation for location data using stay region analysis,” in Advanced Data Mining and Applications: 13th International Conference, ADMA 2017, Singapore, November 5–6, 2017, Proceedings 13. Springer International Publishing, 2017, pp. 808–820.
+[67]	M. Dash and S. G. Teo, “Privacy and utility preservation for location data using stay region analysis,” in Advanced Data Mining and Applications: 13th International Conference, ADMA 2017, Singapore, November 5–6, 2017, Proceedings 13. Springer International Publishing, 2017, pp. 808–820. https://link.springer.com/chapter/10.1007/978-3-319-69179-4_57
 
 
-[68]	D. Rugeles, Z. Hai, G. Cong, and M. Dash, “Heron inference for bayesian graphical models,” arXiv preprint arXiv:1802.06526, 2018.
+[68]	D. Rugeles, Z. Hai, G. Cong, and M. Dash, “Heron inference for bayesian graphical models,” arXiv preprint arXiv:1802.06526, 2018. https://arxiv.org/abs/1802.06526
 
 
-[69]	J. Yang, M. Dash, and S. G. Teo, “Pptpf: Privacy-preserving trajectory publication framework for cdr mobile trajectories,” ISPRS International Journal of Geo-Information, vol. 10, no. 4, p. 224, 2021.
+[69]	J. Yang, M. Dash, and S. G. Teo, “Pptpf: Privacy-preserving trajectory publication framework for cdr mobile trajectories,” ISPRS International Journal of Geo-Information, vol. 10, no. 4, p. 224, 2021. https://www.mdpi.com/2220-9964/10/4/224
 
 
-[70]	D. Rugeles, Z. Hai, J. F. Carmona, M. Dash, and G. Cong, “Improving the inference of topic models via infinite latent state replications,” arXiv preprint arXiv:2301.12974, 2023.
+[70]	D. Rugeles, Z. Hai, J. F. Carmona, M. Dash, and G. Cong, “Improving the inference of topic models via infinite latent state replications,” arXiv preprint arXiv:2301.12974, 2023. https://arxiv.org/abs/2301.12974
