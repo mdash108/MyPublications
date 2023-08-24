@@ -205,8 +205,9 @@ A.	Shi-Nash, “From mobile phone data to transport network–gaining insight ab
 
 [68]	D. Rugeles, Z. Hai, G. Cong, and M. Dash, “Heron inference for bayesian graphical models,” arXiv preprint arXiv:1802.06526, 2018. https://arxiv.org/abs/1802.06526
 
+[69] D. Rugeles, Z. Hai, M. Dash, G. Cong, "Deterministic Inference of Topic Models via Maximal Latent State Replication," IEEE Transactions on Knowledge and Data Engineering 34 (4), 1684-1695, 2020.
 
-[69]	J. Yang, M. Dash, and S. G. Teo, “Pptpf: Privacy-preserving trajectory publication framework for cdr mobile trajectories,” ISPRS International Journal of Geo-Information, vol. 10, no. 4, p. 224, 2021. https://www.mdpi.com/2220-9964/10/4/224
+[70]	J. Yang, M. Dash, and S. G. Teo, “Pptpf: Privacy-preserving trajectory publication framework for cdr mobile trajectories,” ISPRS International Journal of Geo-Information, vol. 10, no. 4, p. 224, 2021. https://www.mdpi.com/2220-9964/10/4/224
 
 
-[70]	D. Rugeles, Z. Hai, J. F. Carmona, M. Dash, and G. Cong, “Improving the inference of topic models via infinite latent state replications,” arXiv preprint arXiv:2301.12974, 2023. https://arxiv.org/abs/2301.12974
+[71]	D. Rugeles, Z. Hai, J. F. Carmona, M. Dash, and G. Cong, “Improving the inference of topic models via infinite latent state replications,” arXiv preprint arXiv:2301.12974, 2023. https://arxiv.org/abs/2301.12974
