@@ -35,102 +35,101 @@ List of refereed papers (Manoranjan Dash)
 [11]	J. Yao, M. Dash, S. Tan, and H. Liu, “Entropy-based fuzzy clustering and fuzzy modeling,” Fuzzy sets and Systems, vol. 113, no. 3, pp. 381–388, 2000. https://www.sciencedirect.com/science/article/abs/pii/S0165011498000384
 
 
-[12]	M. Dash, H. Liu, and H. Motoda, “Consistency based feature selection,” in Knowledge Discovery and Data Mining. Current Issues and New Appli-cations: 4th Pacific-Asia Conference, PAKDD 2000 Kyoto, Japan, April 18–20, 2000 Proceedings 4. Springer Berlin Heidelberg, 2000, pp. 98–109.
+[12]	M. Dash, H. Liu, and H. Motoda, “Consistency based feature selection,” in Knowledge Discovery and Data Mining. Current Issues and New Applications: 4th Pacific-Asia Conference, PAKDD 2000 Kyoto, Japan, April 18–20, 2000 Proceedings 4. Springer Berlin Heidelberg, 2000, pp. 98–109. https://link.springer.com/chapter/10.1007/3-540-45571-x_12
 
 
-[13]	M. Dash, H. Liu, and J. Yao, “Unsupervised feature ranking and selec-tion,” KLUWER INTERNATIONAL SERIES IN ENGINEERING AND COMPUTER SCIENCE, pp. 67–88, 2001.
+[13]	M. Dash, H. Liu, and J. Yao, “Unsupervised feature ranking and selection,” KLUWER INTERNATIONAL SERIES IN ENGINEERING AND COMPUTER SCIENCE, pp. 67–88, 2001. https://link.springer.com/chapter/10.1007/0-306-46991-x_3
 
 
-[14]	M. Dash and H. Liu, “Efficient hierarchical clustering algorithms using partially overlapping partitions,” in Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer Berlin Heidelberg Berlin, Heidelberg, 2001, pp. 495–506.
+[14]	M. Dash and H. Liu, “Efficient hierarchical clustering algorithms using partially overlapping partitions,” in Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer Berlin Heidelberg Berlin, Heidelberg, 2001, pp. 495–506. https://link.springer.com/chapter/10.1007/3-540-45357-1_52
 
 
-[15]	M. Dash, H. Liu, and X. Xu, “’1+ 1¿ 2’,” in Institute of Electrical and Electronics Engineers Inc., 2001.
+[15]	M. Dash, H. Liu, and X. Xu, “'1+1>2': merging distance and density based clustering,” in Seventh International Conference on Database Systems for Advanced Applications. DASFAA 2001. https://ieeexplore.ieee.org/abstract/document/916361
 
 
-[16]	M. Dash, K. Choi, P. Scheuermann, and H. Liu, “Feature selection for clustering-a filter solution,” in 2002 IEEE International Conference on Data Mining, 2002. Proceedings. IEEE, 2002, pp. 115–122.
+[16]	M. Dash, K. Choi, P. Scheuermann, and H. Liu, “Feature selection for clustering-a filter solution,” in 2002 IEEE International Conference on Data Mining, 2002. Proceedings. IEEE, 2002, pp. 115–122. https://ieeexplore.ieee.org/abstract/document/1183893
 
 
-[17]	M. Dash, H. Liu, and J. Yao, “Unsupervised feature ranking and selection,” Knowledge Discovery for Business Information Systems, pp. 67–87, 2002.
+[17]	M. Dash, H. Liu, and J. Yao, “Unsupervised feature ranking and selection,” Knowledge Discovery for Business Information Systems, pp. 67–87, 2002. https://link.springer.com/chapter/10.1007/0-306-46991-x_3
 
 
 [18]	M. Dash, “Efficient Clustering for Knowledge Discovery in Large High-Dimensional Databases,” PhD Thesis, June 2002.
 
 
-[19]	H. Liu, F. Hussain, C. L. Tan, and M. Dash, “Discretization: An en-abling technique,” Data mining and knowledge discovery, vol. 6, pp. 393–423, 2002.
+[19]	H. Liu, F. Hussain, C. L. Tan, and M. Dash, “Discretization: An enabling technique,” Data mining and knowledge discovery, vol. 6, pp. 393–423, 2002. https://link.springer.com/article/10.1023/A:1016304305535
 
 
-[20]	H. Br¨onnimann, B. Chen, M. Dash, P. Haas, and P. Scheuermann, “Effi-cient data reduction with ease,” in Proceedings of the ninth ACM SIGKDD international conference on knowledge discovery and data mining, 2003, pp. 59–68.
+[20]	H. Br¨onnimann, B. Chen, M. Dash, P. Haas, and P. Scheuermann, “Efficient data reduction with ease,” in Proceedings of the ninth ACM SIGKDD international conference on knowledge discovery and data mining, 2003, pp. 59–68. https://dl.acm.org/doi/abs/10.1145/956750.956761
 
 
-[21]	M. Dash and H. Liu, “Consistency-based search in feature selection,” Ar-tificial intelligence, vol. 151, no. 1-2, pp. 155–176, 2003.
+[21]	M. Dash and H. Liu, “Consistency-based search in feature selection,” Ar-tificial intelligence, vol. 151, no. 1-2, pp. 155–176, 2003. https://www.sciencedirect.com/science/article/pii/S0004370203000791
 
 
-[22]	H. Liu, L. Yu, M. Dash, and H. Motoda, “Active feature selection us-ing classes,” in Advances in Knowledge Discovery and Data Mining: 7th Pacific-Asia Conference, PAKDD 2003, Seoul, Korea, April 30–May 2, 2003 Proceedings 7. Springer Berlin Heidelberg, 2003, pp. 474–485.
+[22]	H. Liu, L. Yu, M. Dash, and H. Motoda, “Active feature selection using classes,” in Advances in Knowledge Discovery and Data Mining: 7th Pacific-Asia Conference, PAKDD 2003, Seoul, Korea, April 30–May 2, 2003 Proceedings 7. Springer Berlin Heidelberg, 2003, pp. 474–485. https://link.springer.com/chapter/10.1007/3-540-36175-8_48
 
 
-[23]	M. Dash, H. Liu, P. Scheuermann, and K. L. Tan, “Fast hierarchical clus-tering and its validation,” Data & Knowledge Engineering, vol. 44, no. 1, pp. 109–138, 2003.
+[23]	M. Dash, H. Liu, P. Scheuermann, and K. L. Tan, “Fast hierarchical clustering and its validation,” Data & Knowledge Engineering, vol. 44, no. 1, pp. 109–138, 2003. https://www.sciencedirect.com/science/article/abs/pii/S0169023X02001386
 
 
-[24]	H. Br¨onnimann, B. Chen, M. Dash, P. Haas, Y. Qiao, and P. Scheuermann, “Efficient data-reduction methods for on-line association rule discovery,” in Data Mining: Next Generation Challenges and Future Directions, Se-lected papers from the NSF Workshop on Next-Generation Data Mining (NGDM’02). Citeseer, 2004, pp. 190–208.
+[24]	H. Br¨onnimann, B. Chen, M. Dash, P. Haas, Y. Qiao, and P. Scheuermann, “Efficient data-reduction methods for online association rule discovery,” in Data Mining: Next Generation Challenges and Future Directions, Se-lected papers from the NSF Workshop on Next-Generation Data Mining (NGDM’02). Citeseer, 2004, pp. 190–208. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=99962c98f549d71b8cda54f7a27bec276021cfaa
 
 
-[25]	M. Dash, S. Petrutiu, and P. Scheuermann, “Efficient parallel hierarchical clustering,” in Euro-Par 2004 Parallel Processing: 10th International Euro-Par Conference, Pisa, Italy, August 31-September 3, 2004. Proceedings 10. Springer Berlin Heidelberg, 2004, pp. 363–371.
+[25]	M. Dash, S. Petrutiu, and P. Scheuermann, “Efficient parallel hierarchical clustering,” in Euro-Par 2004 Parallel Processing: 10th International Euro-Par Conference, Pisa, Italy, August 31-September 3, 2004. Proceedings 10. Springer Berlin Heidelberg, 2004, pp. 363–371. https://link.springer.com/chapter/10.1007/978-3-540-27866-5_47
 
 
-[27]	M. Dash and D. Kolippakkam, “Automatic view selection: an application to image mining,” in Advances in Knowledge Discovery and Data Mining: 9th Pacific-Asia Conference, PAKDD 2005, Hanoi, Vietnam, May 18-20, 2005. Proceedings 9. Springer Berlin Heidelberg, 2005, pp. 107–113.
+[27]	M. Dash and D. Kolippakkam, “Automatic view selection: an application to image mining,” in Advances in Knowledge Discovery and Data Mining: 9th Pacific-Asia Conference, PAKDD 2005, Hanoi, Vietnam, May 18-20, 2005. Proceedings 9. Springer Berlin Heidelberg, 2005, pp. 107–113. https://link.springer.com/chapter/10.1007/11430919_14
 
 
 [28]	S. Wang, M. Dash, and L.-T. Chia, “Efficient sampling: Application to image data,” in Advances in Knowledge Discovery and Data Mining: 9th Pacific-Asia Conference, PAKDD 2005, Hanoi, Vietnam, May 18-20, 2005. Proceedings 9. Springer Berlin Heidelberg, 2005, pp. 452–463.
 
 
-[29]	S. Wang, M. Xu, L.-T. Chia, and M. Dash, “Easier sampling for audio event identification,” in 2005 IEEE International Conference on Multimedia and Expo. IEEE, 2005, pp. 1214–1217.
+[29]	S. Wang, M. Xu, L.-T. Chia, and M. Dash, “Easier sampling for audio event identification,” in 2005 IEEE International Conference on Multimedia and Expo. IEEE, 2005, pp. 1214–1217. https://ieeexplore.ieee.org/abstract/document/1521646
 
 
-[30]	M. Dash and W. Ng, “Efficient reservoir sampling for transactional data streams,” in Sixth IEEE International Conference on Data Mining-Workshops (ICDMW’06). IEEE, 2006, pp. 662–666.
+[30]	M. Dash and W. Ng, “Efficient reservoir sampling for transactional data streams,” in Sixth IEEE International Conference on Data Mining-Workshops (ICDMW’06). IEEE, 2006, pp. 662–666. https://ieeexplore.ieee.org/abstract/document/4063708
 
 
-[31]	W. Ng and M. Dash, “An evaluation of progressive sampling for imbal-anced data sets,” in Sixth IEEE International Conference on Data Mining-Workshops (ICDMW’06). IEEE, 2006, pp. 657–661.
+[31]	W. Ng and M. Dash, “An evaluation of progressive sampling for imbalanced data sets,” in Sixth IEEE International Conference on Data Mining-Workshops (ICDMW’06). IEEE, 2006, pp. 657–661. https://ieeexplore.ieee.org/abstract/document/4063707
 
 
 [32]	X. H. Dang, W. K. Ng, M. Dash, D. Shi, N. S. Chaudhari, E. P. Lim,
-V.	Gopalakrishnan, X. Li, J. Ren, W. F. Lu et al., “A data mining approach to new product development: Enhancing product success rate through in-telligent design,” CAD/CAM Robotics and Factories of the Future, p. 161, 2006.
+V.	Gopalakrishnan, X. Li, J. Ren, W. F. Lu et al., “A data mining approach to new product development: Enhancing product success rate through intelligent design,” CAD/CAM Robotics and Factories of the Future, p. 161, 2006.
 
 
-[33]	S. Wang, M. Dash, L.-T. Chia, and M. Xu, “Efficient data reduction in multimedia data,” Applied Intelligence, vol. 25, pp. 359–374, 2006.
+[33]	S. Wang, M. Dash, L.-T. Chia, and M. Xu, “Efficient data reduction in multimedia data,” Applied Intelligence, vol. 25, pp. 359–374, 2006. https://link.springer.com/article/10.1007/s10489-006-0112-1
 
 
-[34]	M. Dash, S. Petrutiu, and P. Scheuermann, “ppop: Fast yet accurate par-allel hierarchical clustering using partitioning,” Data & Knowledge Engi-neering, vol. 61, no. 3, pp. 563–578, 2007.
+[34]	M. Dash, S. Petrutiu, and P. Scheuermann, “ppop: Fast yet accurate parallel hierarchical clustering using partitioning,” Data & Knowledge Engi-neering, vol. 61, no. 3, pp. 563–578, 2007. https://www.sciencedirect.com/science/article/abs/pii/S0169023X06001340
 
 
-[35]	S. Wang, M. Dash, L.-T. Chia, and M. Xu, “Efficient sampling of training set in large and noisy multimedia data,” ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), vol. 3, no. 3, pp. 14–es, 2007.
+[35]	S. Wang, M. Dash, L.-T. Chia, and M. Xu, “Efficient sampling of training set in large and noisy multimedia data,” ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), vol. 3, no. 3, pp. 14–es, 2007. https://dl.acm.org/doi/abs/10.1145/1236471.1236473
 
 
-[36]	M. Dash and V. Gopalkrishnan, “Two way focused classification,” in In-ternational Conference on Data Warehousing and Knowledge Discovery. Springer Berlin Heidelberg Berlin, Heidelberg, 2007, pp. 345–354.
+[36]	M. Dash and V. Gopalkrishnan, “Two way focused classification,” in In-ternational Conference on Data Warehousing and Knowledge Discovery. Springer Berlin Heidelberg Berlin, Heidelberg, 2007, pp. 345–354. https://link.springer.com/chapter/10.1007/978-3-540-74553-2_32
 
 
-[37]	Z. Zhu, Y.-S. Ong, and M. Dash, “Wrapper–filter feature selection algo-rithm using a memetic framework,” IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), vol. 37, no. 1, pp. 70–76, 2007.
+[37]	Z. Zhu, Y.-S. Ong, and M. Dash, “Wrapper–filter feature selection algorithm using a memetic framework,” IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), vol. 37, no. 1, pp. 70–76, 2007. https://ieeexplore.ieee.org/abstract/document/4067093
 
 
-[38]	M. Dash and O. Cher Yee, “extrarelief: improving relief by efficient selec-tion of instances,” in Australasian Joint Conference on Artificial Intelli-gence. Springer Berlin Heidelberg Berlin, Heidelberg, 2007, pp. 305–314.
+[38]	M. Dash and O. Cher Yee, “extrarelief: improving relief by efficient selection of instances,” in Australasian Joint Conference on Artificial Intelli-gence. Springer Berlin Heidelberg Berlin, Heidelberg, 2007, pp. 305–314. https://link.springer.com/chapter/10.1007/978-3-540-76928-6_32
 
 
-[39]	Z. Zhu, Y.-S. Ong, and M. Dash, “Markov blanket-embedded genetic algo-rithm for gene selection,” Pattern Recognition, vol. 40, no. 11, pp. 3236–3248, 2007.
+[39]	Z. Zhu, Y.-S. Ong, and M. Dash, “Markov blanket-embedded genetic algorithm for gene selection,” Pattern Recognition, vol. 40, no. 11, pp. 3236–3248, 2007. https://www.sciencedirect.com/science/article/abs/pii/S0031320307000945
 
 
-[40]	M. Dash and O. Y. Hao, “Efficient cross validation over skewed noisy data,” in 2008 IEEE International Conference on Systems, Man and Cybernetics. IEEE, 2008, pp. 749–756.
+[40]	M. Dash and O. Y. Hao, “Efficient cross validation over skewed noisy data,” in 2008 IEEE International Conference on Systems, Man and Cybernetics. IEEE, 2008, pp. 749–756. https://ieeexplore.ieee.org/abstract/document/4811368
 
 
-[41]	M. Dash and V. Gopalkrishnan, “Distance based feature selection for clus-tering microarray data,” in Database Systems for Advanced Applications: 13th International Conference, DASFAA 2008, New Delhi, India, March
-19-	21, 2008. Proceedings 13. Springer Berlin Heidelberg, 2008, pp. 512–519.
+[41]	M. Dash and V. Gopalkrishnan, “Distance based feature selection for clustering microarray data,” in Database Systems for Advanced Applications: 13th International Conference, DASFAA 2008, New Delhi, India, March 19-21, 2008. Proceedings 13. Springer Berlin Heidelberg, 2008, pp. 512–519. https://link.springer.com/chapter/10.1007/978-3-540-78568-2_41
 
 
-[42]	W. Ng and M. Dash, “Efficient approximate mining of frequent patterns over transactional data streams,” in International Conference on Data Warehousing and Knowledge Discovery. Springer Berlin Heidelberg Berlin, Heidelberg, 2008, pp. 241–250.
+[42]	W. Ng and M. Dash, “Efficient approximate mining of frequent patterns over transactional data streams,” in International Conference on Data Warehousing and Knowledge Discovery. Springer Berlin Heidelberg Berlin, Heidelberg, 2008, pp. 241–250. https://link.springer.com/chapter/10.1007/978-3-540-85836-2_23
 
 
-[43]	——, “A test paradigm for detecting changes in transactional data streams,” in International Conference on Database Systems for Advanced Applications. Springer Berlin Heidelberg Berlin, Heidelberg, 2008, pp. 204–219.
+[43]	W. Ng and M. Dash, “A test paradigm for detecting changes in transactional data streams,” in International Conference on Database Systems for Advanced Applications. Springer Berlin Heidelberg Berlin, Heidelberg, 2008, pp. 204–219. https://link.springer.com/chapter/10.1007/978-3-540-78568-2_17
 
 
-[44]	——, “A change detector for mining frequent patterns over evolving data streams,” in 2008 IEEE International Conference on Systems, Man and Cybernetics. IEEE, 2008, pp. 2407–2412.
+[44]	W. Ng and M. Dash, “A change detector for mining frequent patterns over evolving data streams,” in 2008 IEEE International Conference on Systems, Man and Cybernetics. IEEE, 2008, pp. 2407–2412. https://ieeexplore.ieee.org/abstract/document/4811655
 
 
 [45]	S. A. Shalom, M. Dash, and M. Tue, “Efficient k-means clustering using accelerated graphics processors,” in Data Warehousing and Knowledge Dis-covery: 10th International Conference, DaWaK 2008 Turin, Italy, Septem-ber 2-5, 2008 Proceedings 10. Springer Berlin Heidelberg, 2008, pp. 166–175.
